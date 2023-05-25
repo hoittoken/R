@@ -92,3 +92,5 @@ table(x)
 
 # Write one line of code to show the number of states per region
 table(murders$region)
+
+https://campus.datacamp.com/courses/data-science-r-basics/vectors-2880951d-f853-4766-adba-8b23deeebc5e?ex=1
